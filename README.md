@@ -1,8 +1,8 @@
 <h1>Hi! I'm Yusuf.</h1>
 
 <p align="left">
-  I have 5 years of experience on Full Stack Development.
-  My stongest aspect is Frontend but I also like to work on different fields which are Backend, Mobile, DevOps.
+  I have 5 years of experience on Full Stack Development.<br>
+  My stongest aspect is Frontend but I also like to work on different fields which are Backend, Mobile, DevOps.<br>
   What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
 </p>
 
@@ -51,13 +51,13 @@
 ###
 
 <p align="center">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000" height="300" alt="activity-graph graph">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25&custom_title=GitHub%20Stats">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=transparent&bg_color=00000000&layout=compact&hide_border=true&border_radius=25&langs_count=10">
   
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=transparent&background=00000000&border_radius=25&hide_border=true">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000" height="300" alt="activity-graph graph">
   
 </p>
