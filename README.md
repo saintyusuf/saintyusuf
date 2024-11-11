@@ -1,7 +1,10 @@
-# Hi! I'm Yusuf.
-## I have 5 years of experience on Full Stack Development.
-My stongest aspect is Frontend but I also like to work on different fields which are Backend, Mobile, DevOps.
-What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
+<h1 align="left">Hi! I'm Yusuf.</h1>
+
+<p align="left">
+  I have 5 years of experience on Full Stack Development.
+  My stongest aspect is Frontend but I also like to work on different fields which are Backend, Mobile, DevOps.
+  What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
+</p>
 
 <p align="center">
   
@@ -30,16 +33,6 @@ What I can do for you are pixel perfect designed, well performing, high user exp
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
-
-###
-
-<h1 align="left">Hi! I'm Yusuf.</h1>
-
-###
-
-<h4 align="left">I have 5 years of experience on Full Stack Development.<br>My stongest aspect is Frontend but I also like to work on different fields which are Backend, Mobile, DevOps.<br>What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.</h4>
-
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -75,13 +68,13 @@ What I can do for you are pixel perfect designed, well performing, high user exp
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
-###
+<p align="center">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25">
+  
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=transparent&bg_color=00000000&layout=compact&hide_border=true&border_radius=25&langs_count=8">
+  
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=transparent&background=00000000&border_radius=25&hide_border=true">
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saintyusuf&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=cobalt2&locale=en&hide_border=true&order=1&theme=transparent&bg_color=00000000" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=cobalt2&hide_border=true&order=2&theme=transparent&bg_color=00000000" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=saintyusuf&locale=en&mode=daily&theme=cobalt2&hide_border=true&border_radius=5&order=3&theme=transparent&bg_color=00000000" height="150" alt="streak graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&radius=16&theme=react&area=true&order=5&hide_border=true&theme=transparent&bg_color=00000000" height="300" alt="activity-graph graph"  />
-</div>
-
-###
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&radius=16&theme=react&area=true&order=5&hide_border=true&theme=transparent&bg_color=00000000" height="300" alt="activity-graph graph"  
+</p>
