@@ -6,16 +6,6 @@
   What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
 </p>
 
-<p align="center">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25">
-  
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=transparent&bg_color=00000000&layout=compact&hide_border=true&border_radius=25&langs_count=8">
-  
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=transparent&background=00000000&border_radius=25&hide_border=true">
- 
-</p>
-
 <div align="center">
   <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
 </div>
@@ -33,6 +23,8 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
   </a>
 </div>
+
+###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
@@ -68,6 +60,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
 </div>
 
+###
+
 <p align="center">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25">
@@ -76,5 +70,5 @@
   
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=transparent&background=00000000&border_radius=25&hide_border=true">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&radius=16&theme=react&area=true&order=5&hide_border=true&theme=transparent&bg_color=00000000" height="300" alt="activity-graph graph"  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&radius=16&theme=react&area=true&order=5&hide_border=true&theme=transparent&bg_color=00000000" height="300" alt="activity-graph graph">
 </p>
