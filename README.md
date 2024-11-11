@@ -52,7 +52,7 @@
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000" height="300" alt="activity-graph graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25&custom_title=GitHub%20Stats">
   
