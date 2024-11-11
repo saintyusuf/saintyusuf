@@ -6,24 +6,6 @@
   What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
 </p>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/yusufakbaba/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://stackoverflow.com/users/13006773/saintyusuf" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
-  </a>
-  <a href="https://www.instagram.com/saint.yusuf/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
 ###
 
 <div align="left">
@@ -62,6 +44,26 @@
 
 ###
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yusufakbaba/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://stackoverflow.com/users/13006773/saintyusuf" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/stackoverflow/default.svg" width="52" height="40" alt="stackoverflow logo"  />
+  </a>
+  <a href="https://www.instagram.com/saint.yusuf/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
+
 <p align="center">
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=transparent&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25">
@@ -70,5 +72,6 @@
   
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=transparent&background=00000000&border_radius=25&hide_border=true">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&radius=16&theme=react&area=true&order=5&hide_border=true&theme=transparent&bg_color=00000000" height="300" alt="activity-graph graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000" height="300" alt="activity-graph graph">
+  
 </p>
