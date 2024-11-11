@@ -52,12 +52,12 @@
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&theme=nord&bg_color=00000000&custom_title=Contribution%20Graph" height="300" alt="activity-graph graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&border_radius=0&theme=nord&bg_color=0d1217&custom_title=Contribution%20Graph">
   
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=nord&bg_color=00000000&show_icons=true&hide_border=true&border_radius=25&custom_title=GitHub%20Stats">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=nord&bg_color=0d1217&show_icons=true&hide_border=true&border_radius=0&custom_title=GitHub%20Stats">
   
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=nord&bg_color=00000000&layout=compact&hide_border=true&border_radius=25&langs_count=10">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=nord&bg_color=0d1217&layout=compact&hide_border=true&border_radius=0&langs_count=10">
   
-  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=nord&background=00000000&border_radius=25&hide_border=true">
+  <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=nord&background=0d1217&border_radius=0&hide_border=true">
   
 </p>
