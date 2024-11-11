@@ -44,12 +44,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
-</div>
-
-###
-
 <p align="center">
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&border_radius=0&theme=nord&bg_color=0d1117&custom_title=Contribution%20Graph">
@@ -61,3 +55,9 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=nord&background=0d1117&border_radius=0&hide_border=true">
   
 </p>
+
+###
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
+</div>
