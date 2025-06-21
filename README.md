@@ -1,9 +1,7 @@
 <h1>Hi! I'm Yusuf.</h1>
 
 <p align="left">
-  I have 5 years of experience on <b>Full Stack Development</b>.<br>
-  My stongest aspect is <b>Frontend</b> but I also like to work on different fields which are <b>Backend</b>, <b>Mobile</b>, <b>DevOps</b>.<br>
-  What I can do for you are pixel perfect designed, well performing, high user experience guaranteed; websites and mobile apps with all backend and devops works included.
+  I am a <b>Full Stack Developer</b> (Frontend Heavy)<br>
 </p>
 
 ###
