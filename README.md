@@ -49,9 +49,3 @@
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=nord&background=0d1117&border_radius=0&hide_border=true">
   
 </p>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/saintyusuf/count.svg?"  />
-</div>
