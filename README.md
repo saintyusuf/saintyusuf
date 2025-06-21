@@ -50,7 +50,7 @@
   
   <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=nord&bg_color=0d1117&show_icons=true&hide_border=true&border_radius=0&custom_title=GitHub%20Stats">
   
-  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=nord&bg_color=0d1117&layout=compact&hide_border=true&border_radius=0&langs_count=10">
+  <img height="50%" width="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=nord&bg_color=0d1117&layout=compact&hide_border=true&border_radius=0&langs_count=10&exclude_repo=ffmpeg-kit-react-native">
   
   <img src ="https://github-readme-streak-stats.herokuapp.com/?user=saintyusuf&theme=nord&background=0d1117&border_radius=0&hide_border=true">
   
