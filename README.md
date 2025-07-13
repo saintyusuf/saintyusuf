@@ -1,5 +1,4 @@
-<h1>Hi! I'm Yusuf.</h1>
-<p style={{font-size: 1.5em}}>Entrepreneur, Software Developer, Fashion Designer</p>
+<h1>Hi! I'm Yusuf; Entrepreneur, Software Developer, Fashion Designer</h1>
 
 <p align="left">
   I make dreams come true. <br>
