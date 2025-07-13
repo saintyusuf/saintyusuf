@@ -1,12 +1,9 @@
-<h1>
-  Hi! I'm Yusuf. </br>
-  <span>Entrepreneur, Software Developer, Fashion Designer </span>
-</h1>
+<h1>Hi! I'm Yusuf.</h1>
 
 <p align="left">
   I make dreams come true. <br>
   I develop well-designed, high-performance websites, web apps, mobile apps, desktop apps. <br>
-  I got 5+ years of experience on Full Stack Development and I’m still hungry to learn new technologies and achieve new successes.` <br>
+  I got 5+ years of experience on Full Stack Development and I’m still hungry to learn new technologies and achieve new successes. <br>
 </p>
 
 ###
