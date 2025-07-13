@@ -1,4 +1,7 @@
-<h1>Hi! I'm Yusuf; Entrepreneur, Software Developer, Fashion Designer</h1>
+<h1>
+  Hi! I'm Yusuf. </br>
+  Entrepreneur, Software Developer, Fashion Designer </br>
+</h1>
 
 <p align="left">
   I make dreams come true. <br>
