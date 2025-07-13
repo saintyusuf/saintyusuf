@@ -1,6 +1,6 @@
 <h1>
   Hi! I'm Yusuf. </br>
-  Entrepreneur, Software Developer, Fashion Designer </br>
+  <h2>Entrepreneur, Software Developer, Fashion Designer </h2>
 </h1>
 
 <p align="left">
