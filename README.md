@@ -1,7 +1,10 @@
 <h1>Hi! I'm Yusuf.</h1>
+<h2>Entrepreneur, Software Developer, Fashion Designer</h2>
 
 <p align="left">
-  I am a <b>Full Stack Developer</b> (Frontend Heavy)<br>
+  I make dreams come true. <br>
+  I develop well-designed, high-performance websites, web apps, mobile apps, desktop apps. <br>
+  I got 5+ years of experience on Full Stack Development and I’m still hungry to learn new technologies and achieve new successes.` <br>
 </p>
 
 ###
