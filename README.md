@@ -42,10 +42,10 @@
 
 <p align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyusuf&area=true&order=5&hide_border=true&border_radius=0&theme=nord&bg_color=0d1117&custom_title=Contribution%20Graph">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintyoseph&area=true&order=5&hide_border=true&border_radius=0&theme=nord&bg_color=0d1117&custom_title=Contribution%20Graph">
   
-  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyusuf&theme=nord&bg_color=0d1117&show_icons=true&hide_border=true&border_radius=0&custom_title=GitHub%20Stats">
+  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api?username=saintyoseph&theme=nord&bg_color=0d1117&show_icons=true&hide_border=true&border_radius=0&custom_title=GitHub%20Stats">
   
-  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyusuf&theme=nord&bg_color=0d1117&layout=compact&hide_border=true&border_radius=0&langs_count=10&exclude_repo=ffmpeg-kit-react-native">
+  <img width="50%" height="auto" src ="https://github-readme-stats.vercel.app/api/top-langs?username=saintyoseph&theme=nord&bg_color=0d1117&layout=compact&hide_border=true&border_radius=0&langs_count=10&exclude_repo=ffmpeg-kit-react-native">
   
 </p>
